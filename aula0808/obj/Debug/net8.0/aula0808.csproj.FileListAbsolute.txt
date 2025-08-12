@@ -1,0 +1,15 @@
+/home/Marco/codes/POO-II/aula0808/bin/Debug/net8.0/aula0808
+/home/Marco/codes/POO-II/aula0808/bin/Debug/net8.0/aula0808.deps.json
+/home/Marco/codes/POO-II/aula0808/bin/Debug/net8.0/aula0808.runtimeconfig.json
+/home/Marco/codes/POO-II/aula0808/bin/Debug/net8.0/aula0808.dll
+/home/Marco/codes/POO-II/aula0808/bin/Debug/net8.0/aula0808.pdb
+/home/Marco/codes/POO-II/aula0808/obj/Debug/net8.0/aula0808.GeneratedMSBuildEditorConfig.editorconfig
+/home/Marco/codes/POO-II/aula0808/obj/Debug/net8.0/aula0808.AssemblyInfoInputs.cache
+/home/Marco/codes/POO-II/aula0808/obj/Debug/net8.0/aula0808.AssemblyInfo.cs
+/home/Marco/codes/POO-II/aula0808/obj/Debug/net8.0/aula0808.csproj.CoreCompileInputs.cache
+/home/Marco/codes/POO-II/aula0808/obj/Debug/net8.0/aula0808.sourcelink.json
+/home/Marco/codes/POO-II/aula0808/obj/Debug/net8.0/aula0808.dll
+/home/Marco/codes/POO-II/aula0808/obj/Debug/net8.0/refint/aula0808.dll
+/home/Marco/codes/POO-II/aula0808/obj/Debug/net8.0/aula0808.pdb
+/home/Marco/codes/POO-II/aula0808/obj/Debug/net8.0/aula0808.genruntimeconfig.cache
+/home/Marco/codes/POO-II/aula0808/obj/Debug/net8.0/ref/aula0808.dll

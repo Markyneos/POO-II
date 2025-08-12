@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/Marco/codes/POO-II/teste/teste.csproj": {}
+    "/home/Marco/codes/POO-II/aula0808/aula0808.csproj": {}
   },
   "projects": {
-    "/home/Marco/codes/POO-II/teste/teste.csproj": {
+    "/home/Marco/codes/POO-II/aula0808/aula0808.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/Marco/codes/POO-II/teste/teste.csproj",
-        "projectName": "teste",
-        "projectPath": "/home/Marco/codes/POO-II/teste/teste.csproj",
+        "projectUniqueName": "/home/Marco/codes/POO-II/aula0808/aula0808.csproj",
+        "projectName": "aula0808",
+        "projectPath": "/home/Marco/codes/POO-II/aula0808/aula0808.csproj",
         "packagesPath": "/home/Marco/.nuget/packages/",
-        "outputPath": "/home/Marco/codes/POO-II/teste/obj/",
+        "outputPath": "/home/Marco/codes/POO-II/aula0808/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/Marco/.nuget/NuGet/NuGet.Config"
