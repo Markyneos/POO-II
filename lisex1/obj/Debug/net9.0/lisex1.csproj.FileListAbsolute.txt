@@ -1,0 +1,15 @@
+/home/Marco/codes/POO-II/lisex1/bin/Debug/net9.0/lisex1
+/home/Marco/codes/POO-II/lisex1/bin/Debug/net9.0/lisex1.deps.json
+/home/Marco/codes/POO-II/lisex1/bin/Debug/net9.0/lisex1.runtimeconfig.json
+/home/Marco/codes/POO-II/lisex1/bin/Debug/net9.0/lisex1.dll
+/home/Marco/codes/POO-II/lisex1/bin/Debug/net9.0/lisex1.pdb
+/home/Marco/codes/POO-II/lisex1/obj/Debug/net9.0/lisex1.GeneratedMSBuildEditorConfig.editorconfig
+/home/Marco/codes/POO-II/lisex1/obj/Debug/net9.0/lisex1.AssemblyInfoInputs.cache
+/home/Marco/codes/POO-II/lisex1/obj/Debug/net9.0/lisex1.AssemblyInfo.cs
+/home/Marco/codes/POO-II/lisex1/obj/Debug/net9.0/lisex1.csproj.CoreCompileInputs.cache
+/home/Marco/codes/POO-II/lisex1/obj/Debug/net9.0/lisex1.sourcelink.json
+/home/Marco/codes/POO-II/lisex1/obj/Debug/net9.0/lisex1.dll
+/home/Marco/codes/POO-II/lisex1/obj/Debug/net9.0/refint/lisex1.dll
+/home/Marco/codes/POO-II/lisex1/obj/Debug/net9.0/lisex1.pdb
+/home/Marco/codes/POO-II/lisex1/obj/Debug/net9.0/lisex1.genruntimeconfig.cache
+/home/Marco/codes/POO-II/lisex1/obj/Debug/net9.0/ref/lisex1.dll

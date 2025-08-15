@@ -1,0 +1,19 @@
+﻿using System;
+
+namespace lisex2;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Airport airport = new Airport();
+        Gryphon gryphon = new Gryphon();
+        Airplane airplane = new Airplane();
+        Helicopter helicopter = new Helicopter();
+
+        airport.Accept(gryphon, "Vix", "VV", 1);
+        airport.Accept(airplane, "Vix", "VV", 10);
+        airport.Clean();
+        airport.Accept(helicopter, "Vix", "VV", 20);
+    }
+}

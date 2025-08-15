@@ -1,0 +1,17 @@
+using System;
+
+namespace lisex2;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        PessoaFisica pf1 = new PessoaFisica("João", "Avenida José Júlio de Souze, 804", "2793848392049", 19882738294, 0);
+        PessoaJuridica pj1 = new PessoaJuridica("Av. Roberto Carlos, 8000", "27938493829", 928383928392, "Empresa Fictícia S.A.", "Guilherme");
+        pf1.ExibirDados();
+        Console.WriteLine("");
+        pj1.ExibirDados();
+    }
+}
+
+

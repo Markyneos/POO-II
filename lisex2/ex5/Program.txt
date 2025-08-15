@@ -1,0 +1,19 @@
+using System;
+
+namespace lisex2;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Cat c1 = new Cat();
+        Cat c2 = new Cat();
+        RoboCat rc1 = new RoboCat();
+
+        c1.Run("Alí");
+        c2.Breath();
+        rc1.Run("0001 0110 1010 0011");
+        c1.Breath();
+        c2.Run("There");
+    }
+}

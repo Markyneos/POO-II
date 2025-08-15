@@ -1,0 +1,13 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        ProfDE p1 = new ProfDE("Marco", 202414275, 40, 500.0);
+        ProfHorista p2 = new ProfHorista("Vinícius", 202525312, 40, 20);
+        p1.ExibirDados();
+        p2.CalcularBeneficio();
+        p2.ExibirDados();
+    }
+}
