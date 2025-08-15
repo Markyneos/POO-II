@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lisex2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ecace3949861ab519634f302fb8500ca3533718")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+658ab20241bc2dc2fe795b3879ef8872532894d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("lisex2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lisex2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
