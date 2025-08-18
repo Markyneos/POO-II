@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("lisex2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("lisex1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+658ab20241bc2dc2fe795b3879ef8872532894d2")]
-[assembly: System.Reflection.AssemblyProductAttribute("lisex2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("lisex2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa3309648caee93c99561f124a158e590bf790c3")]
+[assembly: System.Reflection.AssemblyProductAttribute("lisex1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("lisex1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

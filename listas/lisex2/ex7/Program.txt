@@ -1,0 +1,17 @@
+using System;
+
+namespace lisex2;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Marinha m1 = new Marinha();
+        Exercito e1 = new Exercito();
+        Aeronautica a1 = new Aeronautica();
+        Militar[] militares = { m1, e1, a1, };
+        Treinamento t1 = new();
+
+        t1.Treinar(militares);
+    }
+}

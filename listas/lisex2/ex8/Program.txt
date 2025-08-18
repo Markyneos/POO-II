@@ -1,0 +1,17 @@
+using System;
+
+namespace lisex2;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Automovel a1 = new Automovel();
+        Bicicleta b1 = new Bicicleta();
+        Oficina o1 = new();
+
+        Console.WriteLine(o1.Proximo());
+        o1.Manutencao(a1);
+        o1.Manutencao(b1);
+    }
+}
