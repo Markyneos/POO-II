@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "douKFNJtjTArrpFlZmHfaOQNTlRKaSm2XW/6W1OKdLEg0Bz+zGrl1n4UjW6D/sXcZQYLt/u2FgFCnLeeeLMf1Q==",
+  "dgSpecHash": "gmTqRl2or5A=",
   "success": true,
   "projectFilePath": "/home/Marco/codes/POO-II/aula0808/aula0808.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/Marco/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/Marco/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/Marco/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,14 @@
+using System;
+
+namespace lisex1;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Funcionario f1 = new(1, "Marco", "Gerente", 5900);
+
+        f1.Cadastrar();
+        f1.Consultar();
+    }
+}

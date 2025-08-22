@@ -1,0 +1,27 @@
+using System;
+
+namespace lisex1;
+
+class Loja
+{
+    static void Main(string[] args)
+    {
+        Produto p1 = new("Detergente", 24.90, 80);
+        Produto p2 = new("Sabão em pó", 15.90, 60);
+        Produto p3 = new("Vassoura", 27.80, 35);
+
+        Console.WriteLine(p1.Estoque);
+
+        p1.ComprarProduto(5);
+        Console.WriteLine(p1.Estoque);
+
+        Console.WriteLine(p2.Preco);
+
+        p2.MudarPreco(12.39);
+        Console.WriteLine(p2.Preco);
+
+        Console.WriteLine(p3.Estoque);
+        p3.VenderProduto(10);
+        Console.WriteLine(p3.Estoque);
+    }
+}

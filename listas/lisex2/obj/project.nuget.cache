@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "n29GwIShdFc=",
+  "dgSpecHash": "/9o8LQXOIJ8=",
   "success": true,
-  "projectFilePath": "/home/Marco/codes/POO-II/lisex2/lisex2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/Marco/codes/POO-II/listas/lisex2/lisex2.csproj",
+  "expectedPackageFiles": [
+    "/home/Marco/.nuget/packages/microsoft.netcore.app.ref/9.0.7/microsoft.netcore.app.ref.9.0.7.nupkg.sha512",
+    "/home/Marco/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512",
+    "/home/Marco/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.7/microsoft.netcore.app.host.linux-x64.9.0.7.nupkg.sha512"
+  ],
   "logs": []
 }
